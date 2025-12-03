@@ -92,6 +92,7 @@ What problem are you REALLY solving? Day 1 mentality..."
 | **IT Expert Party Chat** | Full Cycle Dev, Vibe Coding, Architecture, Ops | 20+ | ✅ Ready | [it_team_party_chat.md](it_team_party_chat.md) |
 | **Legal Expert Party Chat** | Litigation, Corporate, Rights, Tech, Criminal | 12 | ✅ Ready | [legal_party_chat.md](legal_party_chat.md) |
 | **Writing Expert Party Chat** | Copywriting, Journalism, Fiction, Screenwriting, Editing | 20 | ✅ Ready | [writing_party_chat.md](writing_party_chat.md) |
+| **Universal Knowledge Workers** | All Domains: Writing, Finance, Science, Psychology, Sports | 28 | ✅ Ready | [universal_party_chat.md](universal_party_chat.md) |
 | *Your Party Chat* | *Coming Soon* | - | 🔜 | PR Welcome! |
 
 **Want to add your party chat?** See [Contributing](#-contributing)
