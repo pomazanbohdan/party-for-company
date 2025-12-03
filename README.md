@@ -91,6 +91,7 @@ What problem are you REALLY solving? Day 1 mentality..."
 | **Medical Expert Party Chat** | Healthcare, Diagnostics, Treatment, Prevention | 16 | ✅ Ready | [medical_party_chat.md](medical_party_chat.md) |
 | **IT Expert Party Chat** | Full Cycle Dev, Vibe Coding, Architecture, Ops | 20+ | ✅ Ready | [it_team_party_chat.md](it_team_party_chat.md) |
 | **Legal Expert Party Chat** | Litigation, Corporate, Rights, Tech, Criminal | 12 | ✅ Ready | [legal_party_chat.md](legal_party_chat.md) |
+| **Writing Expert Party Chat** | Copywriting, Journalism, Fiction, Screenwriting, Editing | 20 | ✅ Ready | [writing_party_chat.md](writing_party_chat.md) |
 | *Your Party Chat* | *Coming Soon* | - | 🔜 | PR Welcome! |
 
 **Want to add your party chat?** See [Contributing](#-contributing)
