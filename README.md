@@ -512,12 +512,12 @@ Complete all 7 schemas (follow inline instructions):
 
 ### Example 1: Strategic Product Launch
 
-**User Query:**
+**User Query**:
 > "We're launching a B2B SaaS analytics platform. Target market is mid-size e-commerce companies. How do we position against Tableau and Google Analytics?"
 
 **Selected Agents:** Strategist (Porter), Marketing (Kotler), Product (Mayer)
 
-**Response:**
+**Response**:
 
 🎯 **Michael Porter** (Strategist):
 "Classic positioning challenge. Apply **Five Forces**: Buyer power is HIGH (lots of alternatives), so you need sustainable differentiation. Threat of substitutes is your biggest risk - Tableau for visualization, GA for web analytics. Your ONLY path is a **focus strategy** - own the e-commerce mid-market niche. Don't try to out-feature Tableau; out-integrate with Shopify, WooCommerce APIs."
@@ -540,7 +540,7 @@ My hypothesis: SMB merchants will convert highest on 'works with Shopify' positi
 
 ### Example 2: Research-Driven Decision
 
-**User Query:**
+**User Query**:
 > "Should we adopt TypeScript for our React codebase? Team is split 50/50."
 
 **Selected Agents:** CTO (Torvalds), IT Manager (Nadella), Performance (Ries)
